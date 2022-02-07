@@ -3,4 +3,4 @@ Repositório criado para o desafio do bootcamp da DIO
 
 ## Links úteis
 
-[Sintaxe Básica Markdown] (https://www.markdownguide.org/basic-syntax/)
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
